@@ -1,6 +1,6 @@
+
 {
-  "property_id": "{
-  "property_id": "YOUR_HOSTFULLY_PROPERTY_UID",
+  "property_id": " 2ce94b6b-1d9a-4fcc-b6ce-83d270250ed0",
   "property_name": "Forever Stay",
   "location": "Lake Sinclair, GA",
   "house_rules": {
@@ -13,21 +13,6 @@
     "wifi_network": "ForeverStay_Guest",
     "wifi_password": "YourSecretPasswordHere",
     "trash_pickup": "Trash days are Tuesdays. We pay for a service to get the trash. No need to move them.",
-    "dock_rules": "Life jackets are required when using the kayaks or paddleboards."
-  }
-}",
-  "property_name": "Forever Stay",
-  "location": "Lake Sinclair, GA",
-  "house_rules": {
-    "check_in": "4:00 PM",
-    "check_out": "10:00 AM",
-    "quiet_hours": "10:00 PM - 7:00 AM",
-    "parking": "Maximum of 3 vehicles in the driveway. No parking on the grass."
-  },
-  "amenities": {
-    "wifi_network": "ForeverStay_Guest",
-    "wifi_password": "YourSecretPasswordHere",
-    "trash_pickup": "Trash days are Tuesdays. Please roll the bin to the curb on Monday night.",
     "dock_rules": "Life jackets are required when using the kayaks or paddleboards."
   }
 }
