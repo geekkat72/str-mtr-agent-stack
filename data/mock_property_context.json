@@ -1,16 +1,66 @@
-{
-  "property_id": "ee2b0e37-f44a-4eb3-9e62-a4ac04c95606",
-  "property_name": "Forever Stay @ Banner Elk",
-  "location": "Beech Mountain, NC",
-  "house_rules": {
-    "check_in": "4:00 PM",
-    "check_out": "11:00 AM",
-    "quiet_hours": "10:00 PM - 7:00 AM",
-    "parking": "Two parking spots are available. Please be mindful of winter weather conditions."
+﻿[
+  {
+    "property_id": "ee2b0e37-f44a-4eb3-9e62-a4ac04c95606",
+    "property_name": "Forever Stay @ Banner Elk",
+    "location": "Beech Mountain, NC",
+    "house_rules": {
+      "check_in": "4:00 PM",
+      "check_out": "11:00 AM",
+      "quiet_hours": "10:00 PM - 7:00 AM",
+      "parking": "Two parking spots are available. Please be mindful of winter weather conditions."
+    },
+    "amenities": {
+      "wifi_network": "FoverStayBannerElk",
+      "wifi_password": "FSBEmtlifeisGR8!",
+      "trash_pickup": "Please place all trash in the designated outdoor bins securely to protect against wildlife."
+    }
   },
-  "amenities": {
-    "wifi_network": "FoverStayBannerElk",
-    "wifi_password": "FSBEmtlifeisGR8!",
-    "trash_pickup": "Please place all trash in the designated outdoor bins securely to protect against wildlife."
+  {
+    "property_id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "property_name": "Sugar Beach",
+    "location": "Panama City Beach, FL",
+    "house_rules": {
+      "check_in": "4:00 PM",
+      "check_out": "11:00 AM",
+      "quiet_hours": "10:00 PM - 7:00 AM",
+      "parking": "Designated property parking available."
+    },
+    "amenities": {
+      "wifi_network": "SugarBeachTimeGuest",
+      "wifi_password": "BeachLifeisGR8!",
+      "trash_pickup": "Please utilize community dumpsters/bins for regular disposal."
+    }
+  },
+  {
+    "property_id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+    "property_name": "ForeverStay@LakeSinclair",
+    "location": "Sparta, GA",
+    "house_rules": {
+      "check_in": "4:00 PM",
+      "check_out": "11:00 AM",
+      "quiet_hours": "10:00 PM - 7:00 AM",
+      "parking": "On-site driveway parking available."
+    },
+    "amenities": {
+      "wifi_network": "Forever Stay Guest",
+      "wifi_password": "WelcomeHome",
+      "trash_pickup": "Please place all trash in designated bins."
+    }
+  },
+  {
+    "property_id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+    "property_name": "Lakefront Paradise",
+    "location": "Georgia",
+    "house_rules": {
+      "check_in": "4:00 PM",
+      "check_out": "11:00 AM",
+      "quiet_hours": "10:00 PM - 7:00 AM",
+      "parking": "On-site driveway parking available."
+    },
+    "amenities": {
+      "wifi_network": "Starlink-Kimmel",
+      "wifi_password": "rainsage3",
+      "trash_pickup": "Please place all trash in designated bins."
+    }
   }
-}
+]
