@@ -1,17 +1,16 @@
 {
-  "property_id": "2ce94b6b-1d9a-4fcc-b6ce-83d270250ed0",
-  "property_name": "Forever Stay",
-  "location": "Lake Sinclair, GA",
+  "property_id": "ee2b0e37-f44a-4eb3-9e62-a4ac04c95606",
+  "property_name": "Forever Stay @ Banner Elk",
+  "location": "Beech Mountain, NC",
   "house_rules": {
     "check_in": "4:00 PM",
     "check_out": "11:00 AM",
     "quiet_hours": "10:00 PM - 7:00 AM",
-    "parking": "Maximum of 3 vehicles in the driveway. No parking on the grass."
+    "parking": "Two parking spots are available. Please be mindful of winter weather conditions."
   },
   "amenities": {
-    "wifi_network": "ForeverStay_Guest",
-    "wifi_password": "YourSecretPasswordHere",
-    "trash_pickup": "Trash days are Tuesdays. We pay for a service to get the trash. No need to move them.",
-    "dock_rules": "Life jackets are required when using the kayaks or paddleboards."
+    "wifi_network": "FoverStayBannerElk",
+    "wifi_password": "FSBEmtlifeisGR8!",
+    "trash_pickup": "Please place all trash in the designated outdoor bins securely to protect against wildlife."
   }
 }
